@@ -1,4 +1,4 @@
-# lara-ai
+# Lara-ai
 
 To install dependencies:
 
